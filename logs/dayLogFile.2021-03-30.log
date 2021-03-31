@@ -1,0 +1,6 @@
+2021-03-30 00:07:21.668  ERROR [main] s.l.TestByteBuffer - ..\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
+2021-03-30 00:07:21.670  INFO  [main] s.l.TestByteBuffer - ..\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
+2021-03-30 00:09:42.894  ERROR [main] s.l.TestByteBuffer - ..\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
+2021-03-30 00:11:02.514  ERROR [main] s.l.TestByteBuffer - soap\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
+2021-03-30 00:11:26.096  ERROR [main] s.l.TestByteBuffer - src\soap\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
+2021-03-30 00:11:49.579  ERROR [main] s.l.TestByteBuffer - .\src\soap\filedata\TestByteBufferTxt.txt (系统找不到指定的路径。)
